@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi, I'm Lennart 👋
 
-<!--
-**loelschlaeger/loelschlaeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://oilbat.de]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/l_oelschlaeger]
 
-Here are some ideas to get you started:
+---
+
+<img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=loelschlaeger&show_icons=true&hide_border=true" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
