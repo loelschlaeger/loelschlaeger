@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on 
   - [fitting (hierarchical) hidden Markov models to financial data](https://github.com/loelschlaeger/fHMM),
-  - [fitting (latent class mixed) multinomial probit models to discrete choice data](https://github.com/loelschlaeger/RprobitB),
+  - [Bayesian estimation of (latent class mixed) multinomial probit models for discrete choice data](https://github.com/loelschlaeger/RprobitB),
   - [identification and visualization of local and global optima](https://github.com/loelschlaeger/locglob),
   - [alternating optimization of high-dimensional functions](https://github.com/loelschlaeger/ao).
 - 💬 I’m looking to collaborate on R packages.
