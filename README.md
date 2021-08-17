@@ -6,7 +6,7 @@
   - [locglob: identification of local and global optima](https://github.com/loelschlaeger/locglob),
   - [ao: alternating optimization of high-dimensional functions](https://github.com/loelschlaeger/ao).
 - 💬 Want to collaborate? Please get in touch!
-- 📫 Reach me via [Twitter](https://twitter.com/l_oelschlaeger), [e-mail](mailto:oelschlaeger.lennart@gmail.com) or [my personal website](https://oilbat.de).
+- 📫 Reach me via [Twitter](https://twitter.com/l_oelschlaeger) or [e-mail](mailto:oelschlaeger.lennart@gmail.com).
 
 [website]: https://oilbat.de
 [twitter]: https://twitter.com/l_oelschlaeger
