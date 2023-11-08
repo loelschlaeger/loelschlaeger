@@ -1,6 +1,6 @@
 # Hi, I'm Lennart! 👋
 
-😄 I like Econometrics, Aviation and Chess.
+😄 I like R, Econometrics, Aviation and Chess.
 
 🔭 Pinned below are my current projects.
 
